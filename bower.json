@@ -17,6 +17,7 @@
     "tests"
   ],
   "dependencies": {
-    "knockout": "3.3.0-alpha"
+    "knockout": "3.3.0-alpha",
+    "postal.js": "~0.12.4"
   }
 }
